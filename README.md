@@ -1,3 +1,4 @@
+http://iptv.movie:8080//get.php?username=ben101&password=ben101&type=m3u_plus
 
 http://portal.alliptv.tv:8080/get.php?username=3760144431675647&password=852088936408&type=m3u_plus
 
